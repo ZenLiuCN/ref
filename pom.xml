@@ -42,7 +42,8 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
-
+    <name>Ref</name>
+    <url>https://github.com/ZenLiuCN/ref</url>
     <developers>
         <developer>
             <name>Zen Liu</name>
